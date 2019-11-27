@@ -1,0 +1,3 @@
+.ipynb_checkpoints
+*.swp # vim files
+*.tsv # private data
